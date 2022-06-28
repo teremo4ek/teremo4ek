@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=teremo4ek&style=flat-square&color=blue" alt=""/>
 <h1>
   Hi there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
   , I am Yury Bely, welcome to my GitHub profile
 </h1>
 </div>
