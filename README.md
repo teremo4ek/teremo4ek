@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a C++, C#, Xamarin Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Professional Software Engineer with the experience of more than 15 years in custom standalone and network applications development. Has created mobile applications for Android and iOS on Xamarin, and iOS on Swift, and developed software with C++ for Windows, Linux and Mac platforms. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ybely-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurybely)
 
