@@ -26,9 +26,9 @@
 ---
 
 ### :man_technologist: About Me :
-Professional Software Engineer with the experience of more than 15 years in custom standalone and network applications development. Has created mobile applications for Android and iOS on Xamarin, and iOS on Swift, and developed software with C++ for Windows, Linux and Mac platforms. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Software Engineer with 15+ years of experience in systems and cross-platform development (C++, Rust, Python). Built desktop, mobile, and real-time applications across Windows, Linux, macOS, Android, and iOS. Focused on performance optimization and low-level system architecture. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ybely-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurybely)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ybely-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurybely) [![Email Badge](https://img.shields.io/badge/-teremo4ek@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:teremo4ek@gmail.com)
 
 ---
 
@@ -43,7 +43,13 @@ Professional Software Engineer with the experience of more than 15 years in cust
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
 ---
